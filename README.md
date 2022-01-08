@@ -1,1 +1,1 @@
-Projects developed for the subject Introduction to Communication Networks (2016/2017 edition) of the Bachelor's Degree in Informatics Engineering course, from the University of Coimbra.
+Projects developed for the subject **Introduction to Communication Networks** (2016/2017 edition) of the Bachelor's Degree in Informatics Engineering course, from the University of Coimbra.
